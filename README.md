@@ -1,16 +1,20 @@
-# starter_project
+# Flutter Starter Project
 
 Flutter starter project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a Flutter starter project which can be used as a base for your future app.
+This project includes Localization and Dynamic Theme.
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align="center">
+  <img src="./ScreenShots/1.png" width="350" title="">
+  <img src="./ScreenShots/2.png" width="350" alt="accessibility text">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="./ScreenShots/3.png" width="350" title="hover text">
+  <img src="./ScreenShots/4.png" width="350" alt="accessibility text">
+</p>
