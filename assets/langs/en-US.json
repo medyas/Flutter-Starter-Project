@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "Home",
+    "text": "Hello World"
+  },
+  "settings": {
+    "title": "Settings",
+    "langs": "Languages",
+    "lang_select": "Select Language",
+    "personalization": "Personalization",
+    "theme": "Themes"
+  }
+}

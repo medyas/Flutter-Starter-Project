@@ -1,0 +1,13 @@
+﻿{
+  "home": {
+    "title": "主屏幕",
+    "text": "你好，世界"
+  },
+  "settings": {
+    "title": "设定值",
+    "langs": "语言能力",
+    "lang_select": "选择语言",
+    "personalization": "个性化",
+    "theme": "主题"
+  }
+}

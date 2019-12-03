@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "Écran d'accueil",
+    "text": "Bonjour le monde"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "langs": "Les langues",
+    "lang_select": "Choisir la langue",
+    "personalization": "Personnalisation",
+    "theme": "Des thèmes"
+  }
+}

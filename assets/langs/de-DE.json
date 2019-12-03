@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "Startbildschirm",
+    "text": "Hallo Welt"
+  },
+  "settings": {
+    "title": "die Einstellungen",
+    "langs": "Sprachen",
+    "lang_select": "Sprache auswählen",
+    "personalization": "Personalisierung",
+    "theme": "Themen"
+  }
+}

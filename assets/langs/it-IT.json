@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "Schermo di casa",
+    "text": "Ciao mondo"
+  },
+  "settings": {
+    "title": "impostazioni",
+    "langs": "Le lingue",
+    "lang_select": "Seleziona la lingua",
+    "personalization": "Personalizzazione",
+    "theme": "Temi"
+  }
+}

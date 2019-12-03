@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "Pantalla de inicio",
+    "text": "Hola Mundo"
+  },
+  "settings": {
+    "title": "Configuraciones",
+    "langs": "Idiomas",
+    "lang_select": "Seleccione el idioma",
+    "personalization": "Personalización",
+    "theme": "Temas"
+  }
+}
