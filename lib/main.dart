@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
     Locale('it', 'IT'),
     Locale('es', 'ES'),
     Locale('fr', 'FR'),
-    Locale('zh', 'CN'),
+    Locale('zh', 'CH'),
     Locale('de', 'DE')
   ];
 
@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
             GlobalWidgetsLocalizations.delegate,
             //app-specific localization
             EasylocaLizationDelegate(
-                locale: locale, path: 'assets/langs', useOnlyLangCode: false),
+                locale: locale, path: 'assets/langs', useOnlyLangCode: true),
           ],
           supportedLocales: MyApp.list,
           locale: data.savedLocale == null ? locale : data.savedLocale,
